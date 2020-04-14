@@ -28,3 +28,4 @@ More Mathematical Formulas
 4) Arithmetic Progression(AP) - 
    Finding the last(nth) term of AP, Finding the first term of AP, Finding the common difference of AP, Total terms in an AP.
    Finding Sum of an AP.
+5) Geometric Progression (GP)
