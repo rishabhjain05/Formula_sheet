@@ -5,13 +5,16 @@ List of Formulas:-
 
 2D shapes
 ----------
-1) Area of Square
-2) Area of Rectangle
-3) Area of Triangle
-4) Area and Altitude of Equilateral Triangle
-5) Third side of Triangle using Pythagoras Property
-6) Area of Trapezoid
-7) Area of Parallelogram
+1)  Area of Square
+2)  Area of Rectangle
+3)  Area of Triangle
+4)  Area and Altitude of Equilateral Triangle
+5)  Third side of Triangle using Pythagoras Property
+6)  Area of Trapezoid
+7)  Area of Parallelogram
+8)  Area of Rhombus
+9)  Area of circle
+10) Circumference of circle
 
 3D shapes
 ----------
